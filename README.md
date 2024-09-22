@@ -70,7 +70,7 @@ The interactive Power BI dashboard can be viewed here:
 <!-- Image Links -->
 
 [project_logo]: Project_logo.png
-[process_workflow]: HC s1.png
+[process_workflow]: Workflow.png
 [dashboard_image]: https://github.com/YashwanthNomula/nomulayashu/blob/main/Resources/Dashboard_Image.png
 
 <!-- Profile Links -->
