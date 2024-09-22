@@ -6,11 +6,9 @@
 
 <p align="center">
   <a href="#overview">Overview</a> •
-  <a href="#prerequisites">Prerequisites</a> •
+  <a href="#Key Components">Key Components</a> •
   <a href="#architecture">Architecture</a> •
   <a href="#demo">Demo</a> •
-  <a href="#support">Support</a> •
-  <a href="#license">License</a>
 </p>
 
 ## Overview
@@ -65,7 +63,9 @@ This architecture illustrates how Power BI Desktop connects to multiple Excel fi
 
 The interactive Power BI dashboard can be viewed here:
 
-[![Power BI Dashboard][dashboard_image]][dashboard_link]
+![Power BI Dashboard][dashboard_image]
+
+![dash_2](https://github.com/YashwanthNomula/Healthcare-Dashboard/blob/main/Detailed%20View%20Page.png)
 
 <!-- Image Links -->
 
@@ -74,3 +74,4 @@ The interactive Power BI dashboard can be viewed here:
 [dashboard_image]: https://github.com/YashwanthNomula/Healthcare-Dashboard/blob/main/Summary_Page.png
 
 <!-- Profile Links -->
+[dashboard_link] : https://app.powerbi.com/groups/me/reports/296feec4-4e00-4b10-93f9-3e8f18392273/43554c0d858c2c1ff4c2?experience=power-bi
