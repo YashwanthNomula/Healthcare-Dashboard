@@ -71,6 +71,6 @@ The interactive Power BI dashboard can be viewed here:
 
 [project_logo]: Project_logo.png
 [process_workflow]: Workflow.png
-[dashboard_image]: https://github.com/YashwanthNomula/nomulayashu/blob/main/Resources/Dashboard_Image.png
+[dashboard_image]: https://github.com/YashwanthNomula/Healthcare-Dashboard/blob/main/Summary_Page.png
 
 <!-- Profile Links -->
