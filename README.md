@@ -57,7 +57,7 @@ A detailed page for granular analysis to drill down into specifics.
 
 The project architecture is quite straight forward and can be explained through the below image:
 
-![Process Architecture][process_workflow]
+![Process_Architecture].[process_workflow]
 
 This architecture illustrates how Power BI Desktop connects to multiple Excel files, enabling seamless data import. After loading, the data is transformed in Power Query, allowing for efficient cleaning, shaping, and aggregation before visualizing it in Power BI reports.
 
@@ -70,7 +70,7 @@ The interactive Power BI dashboard can be viewed here:
 <!-- Image Links -->
 
 [project_logo]: Project_logo.png
-[process_workflow]: https://github.com/YashwanthNomula/nomulayashu/blob/main/Resources/process_architecture.png
+[process_workflow]: HC s1.png
 [dashboard_image]: https://github.com/YashwanthNomula/nomulayashu/blob/main/Resources/Dashboard_Image.png
 
 <!-- Profile Links -->
